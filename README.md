@@ -29,7 +29,7 @@
 > 3. [자기소개서 2번 문항] 알고리즘([학습](https://colab.research.google.com/drive/1NocHSHYP6j4kO5FB-VJYgyQA8pWxNevB?usp=sharing) / [포스팅](https://findingme.tistory.com/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%26%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98))
 </br>
 
-> 4. [자기소개서 2번 문항] [네트워크 학습](https://github.com/the9kim/TIL/tree/main/Network)
+> 4. [자기소개서 2번 문항] [네트워크 학습](https://findingme.tistory.com/category/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 </br>
 
 
