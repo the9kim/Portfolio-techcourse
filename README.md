@@ -26,7 +26,7 @@
 > 2. [자기소개서 2번 문항] [인공지능 토이프로젝트](https://github.com/the9kim/AI-Toy-Project)
 </br>
 
-> 3. [자기소개서 2번 문항] 알고리즘([학습]() / [포스팅]())
+> 3. [자기소개서 2번 문항] 알고리즘([학습](https://colab.research.google.com/drive/1NocHSHYP6j4kO5FB-VJYgyQA8pWxNevB?usp=sharing) / [포스팅]())
 </br>
 
 > 4. [자기소개서 2번 문항] [네트워크 학습](https://github.com/the9kim/TIL/tree/main/Network)
