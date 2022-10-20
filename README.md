@@ -14,7 +14,13 @@
 </br>
 
 ## Project
-> 1. [자기소개서 2번 문항] [가상화폐 추세 분석 네트워크 프로젝트](https://github.com/the9kim/Regime-Detector-Project)
+> 5. [자기소개서 3번 문항] [나를 찾기 3년 프로젝트](https://www.notion.so/3-dd5cd745191c477e8494a14385a5992c) 
+</br>
+
+> 2. [자기소개서 2번 문항] [가상화폐 추세 분석 네트워크 프로젝트](https://github.com/the9kim/Regime-Detector-Project)
+> 
+>     [세부 내용](https://github.com/BONGJUNJANG/AIFFELTON/blob/main/README.md)
+
 </br>
 
 > 2. [자기소개서 2번 문항] [인공지능 토이프로젝트](https://github.com/the9kim/AI-Toy-Project)
@@ -26,5 +32,5 @@
 > 4. [자기소개서 2번 문항] [네트워크 학습](https://github.com/the9kim/TIL/tree/main/Network)
 </br>
 
-> 5. [자기소개서 3번 문항] [나를 찾기 3년 프로젝트]() 
+
 
