@@ -3,17 +3,18 @@
 </br>
 
 ## Intro
-
+우아한테크코스 웹 백엔드 5기 지원서 내용에 관한 증빙 자료를 아래 '참고 자료' 탭에 링크 게재합니다.
+- (지원서 3번) 몰입 경험 관련 사항
+  - 나를 찾기 3년 프로젝트
+- (지원서 2번) 프로그래밍 학습 과정 관련 사항  
+  - (국비지원 프로젝트) 가상화폐 추세 분석 네트워크 프로젝트
+  - (독학) 알고리즘 문제 풀이
+  - (독학) 네트워크 이론 학습
+  - (국비지원 실습) 인공지능 실습
+  - 
 </br>
 
-## Contact
-- GitHub: https://github.com/the9kim
-- Blog: https://findingme.tistory.com/
-- E-Mail: the9rla@gmail.com
-
-</br>
-
-## Project & TIL
+## 참고 자료
 ### 1. [나를 찾기 3년 프로젝트](https://www.notion.so/3-dd5cd745191c477e8494a14385a5992c)
 
 >**(개요)** 매일 아침 한시간 나를 알아보는 시간 갖기
@@ -60,6 +61,15 @@
 > **(기간)** 22.01.05 ~ 06.09
 > 
 > **(기술)** Python, TensorFlow, Scikit-Learn
+
+
+</br>
+
+## Contact
+- GitHub: https://github.com/the9kim
+- Blog: https://findingme.tistory.com/
+- E-Mail: the9rla@gmail.com
+
 
 
 
