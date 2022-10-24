@@ -16,7 +16,7 @@
 </br>
 
 ## 증빙 자료
-### 1. [나를 찾기 3년 프로젝트](https://www.notion.so/3-dd5cd745191c477e8494a14385a5992c)
+### 1. [나를 찾기 3년 프로젝트](https://elderly-narcissus-c43.notion.site/3-dd5cd745191c477e8494a14385a5992c)
 
 >**(개요)** 매일 아침 한시간 나를 알아보는 시간 갖기
 >
