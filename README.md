@@ -1,4 +1,4 @@
-# Portfolio_김덕우_우코테_백엔드
+# Portfolio_김덕우_우_백엔드
 
 </br>
 
